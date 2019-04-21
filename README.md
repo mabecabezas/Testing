@@ -1,4 +1,4 @@
-# Homework4. Write a bash script.  
+# Homework4. Write a bash script .  
 
 ## The deadline to turning this homework is ** Wednesday at 11:00:00pm **   
 
@@ -73,7 +73,7 @@ chr2
 ```
 
 
-# What do you have to do?    
+# What  do you have to do?    
 **Create a bash script called `Split_GTF.sh` which will split the `hg19.gtf` into files corresponding to every chr (2,3,21), 
 save every file in separate directory called chr${i}_gtf.**
 
